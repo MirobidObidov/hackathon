@@ -5,6 +5,7 @@ const App = () => {
     <div>
       App...
       Tohirov
+      Abdulloh
     </div>
   )
 }
