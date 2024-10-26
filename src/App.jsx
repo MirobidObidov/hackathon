@@ -4,6 +4,8 @@ const App = () => {
   return (
     <div>
       App...
+      Tohirov
+      Abdulloh
     </div>
   )
 }
